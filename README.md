@@ -50,7 +50,6 @@
 
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
-
 [<img src="https://img.shields.io/badge/ApacheHadoop-282C34?logo=apachehadoop&logoColor=FFCA28" alt="apacheHadoop logo" title="ApacheHadoop" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/FastApi-282C34?logo=fastapi&logoColor=FFCA28" alt="FastApi logo" title="FastApi" height="25" />][learning_now_anchor]
