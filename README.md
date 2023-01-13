@@ -24,8 +24,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/GoogleColab-282C34?logo=googlecolab&logoColor=764ABC" alt="GoogleColab logo" title="GoogleColab" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/ScikitLearn-282C34?logo=scikitlearn&logoColor=764ABC" alt="Scikitlearn logo" title="ScikitLearn" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=4B32C3" alt="TensorFlow logo" title="TensorFlow" height="25" />][tech_tools_anchor]
@@ -40,6 +38,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/GoogleColab-282C34?logo=googlecolab&logoColor=764ABC" alt="GoogleColab logo" title="GoogleColab" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=3DDC84" alt="Jupyter logo" title="Jupyter" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=C21325" alt="Anaconda logo" title="Anaconda" height="25" />][tech_tools_anchor]
@@ -48,7 +48,7 @@
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Powerbi-282C34?logo=powerbi&logoColor=FFCA28" alt="Powerbi logo" title="Powerbi" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ApacheHadoop-282C34?logo=apachehadoop&logoColor=FFCA28" alt="apacheHadoop logo" title="ApacheHadoop" height="25" />][learning_now_anchor]
 &nbsp;
