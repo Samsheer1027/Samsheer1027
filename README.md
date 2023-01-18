@@ -22,38 +22,28 @@
 </div>
 
 
-### Tools used in my backend development process
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/350/flexed-biceps_1f4aa.png" width="20px"/> My Strongholds & Favourites
 
-## AI/ML  
-![](https://img.shields.io/badge/Basic-Tensorflow-informational?style=white&color=f6ff42)
-![](https://img.shields.io/badge/Advance-Pandas-informational?style=white&color=f6ff42)
-![](https://img.shields.io/badge/Basic-Seaborn-informational?style=white&color=f6ff42)
-![](https://img.shields.io/badge/Basic-Scikit_learn-informational?style=white&color=f6ff42)
+<div align=center>
 
-## Database
-![](https://img.shields.io/badge/Mongo_DB-informational?style=white&color=ff4242)
-![](https://img.shields.io/badge/My_sql-informational?style=white&color=ff4242)
-![](https://img.shields.io/badge/Oracle-informational?style=white&color=ff4242)
-
-## Devops
-![](https://img.shields.io/badge/Azure-informational?style=white&color=42ff4b)
-![](https://img.shields.io/badge/AWS-informational?style=white&color=42ff4b)
-
-## Backend as a Service(BaaS)
-![](https://img.shields.io/badge/Advance-Heroku-informational?style=white&color=ff42cd)
-
-## Framework
-![](https://img.shields.io/badge/Advance-Flask-informational?style=white&color=8a42ff)
-![](https://img.shields.io/badge/Medium-Django-informational?style=white&color=8a42ff)
-
-## Software
-![](https://img.shields.io/badge/Advance-Ai-informational?style=white&color=42e3ff)
-![](https://img.shields.io/badge/Advance-Photoshop-informational?style=white&color=42e3ff)
-![](https://img.shields.io/badge/Basic-Figma-informational?style=white&color=42e3ff)
-![](https://img.shields.io/badge/Basic-Sketch-informational?style=white&color=42e3ff)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-E50505?style=for-the-badge&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/Numpy-07B4C8?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-011D3E?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/SciKitLearn-0AA7F5?style=for-the-badge&logo=scikitlearn&logoColor=orange)
+![](https://img.shields.io/badge/Pytorch-160300?style=for-the-badge&logo=pytorch&logoColor=red)
+  
+  ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![](https://img.shields.io/badge/FastApi-333434?style=for-the-badge&logo=fastapi&logoColor=059999)
+  ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/ApacheHadoop-219AD6?style=for-the-badge&logo=apachehadoop&logoColor=white)
+  
+  
+</div>
 
 ## Other
 ![](https://img.shields.io/badge/Linux-informational?style=white&color=ff429a)
