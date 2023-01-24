@@ -5,7 +5,7 @@
 
 ### About me
 
-#### A self Motivated and Passionated Student of Artificial Intelligence and Data Science. Currently persuing B.tech AI&DS @KPRIET.
+#### I am Samsheeray Allam A. I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions..
 
 <!--<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">-->
 
